@@ -1,0 +1,12 @@
+body{
+background-color: black;
+color: aqua;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    margin: 250px auto;
+}
